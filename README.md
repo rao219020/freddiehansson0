@@ -2,7 +2,7 @@
 - 👀 I’m interested in guangboju
 - 🌱 I’m currently learning cooking
 - 💞️ I’m looking to collaborate on twitter
-- 📫 How to reach me ...
+
 
 <!---
 freddiehansson0/freddiehansson0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
